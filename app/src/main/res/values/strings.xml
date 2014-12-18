@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+	<string name="MyTransitionName">ImageTransition</string>
+
+	<string name="monkey">monkey</string>
+	<string name="penguins">penguins</string>
+
+</resources>
